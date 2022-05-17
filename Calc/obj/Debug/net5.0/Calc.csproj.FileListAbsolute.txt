@@ -1,0 +1,12 @@
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\bin\Debug\net5.0\Calc.deps.json
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\bin\Debug\net5.0\Calc.dll
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\bin\Debug\net5.0\ref\Calc.dll
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\bin\Debug\net5.0\Calc.pdb
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\obj\Debug\net5.0\Calc.csproj.AssemblyReference.cache
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\obj\Debug\net5.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\obj\Debug\net5.0\Calc.AssemblyInfoInputs.cache
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\obj\Debug\net5.0\Calc.AssemblyInfo.cs
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\obj\Debug\net5.0\Calc.csproj.CoreCompileInputs.cache
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\obj\Debug\net5.0\Calc.dll
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\obj\Debug\net5.0\ref\Calc.dll
+F:\alex\Documents\Cours_B3\Dev\Calc\Calc\obj\Debug\net5.0\Calc.pdb
