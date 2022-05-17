@@ -16,7 +16,7 @@ namespace Calc
                     if (currentNd == null){
                          // créer ma mon noeud (String)
                         var tmpNode = new Node();
-                        tmpNode.Value = "0";
+                        tmpNode.Value = token.Value;
                         tmpNode.LeftChild = null;
                         tmpNode.RightChild = null;
 
@@ -27,20 +27,24 @@ namespace Calc
                     else if(currentNd.RightChild == null && currentNd.LeftChild != null){
                         // créer ma mon noeud (String)
                         var tmpNode = new Node();
-                        tmpNode.Value = "0";
+                        tmpNode.Value = token.Value;
                         tmpNode.LeftChild = null;
                         tmpNode.RightChild = null;
 
-                        // 
+                        // Affecte ma valeur au currentNd
+                        currentNd.RightChild = tmpNode;
                     }
                     else{
-                        var NewNode = new Node();
-                        currentNd.Value = "0";
-                        currentNd.LeftChild = null;
-                        currentNd.RightChild = null;
+                        // créer ma mon noeud (String)
+                        var tmpNode = new Node();
+                        tmpNode.Value = token.Value;
+                        tmpNode.LeftChild = null;
+                        tmpNode.RightChild = null;
 
-                        NewNode.LeftChild = currentNd;
-                        NewNode.RightChild = NewNode;
+                        // Affecte ma valeur au currentNd
+                        var NewNode = currentNd;
+                        currentNd.LeftChild = NewNode;
+                        currentNd.RightChild = tmpNode;
                     }
                 }
 
